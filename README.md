@@ -1,6 +1,10 @@
 # Proxy-Scraper
 Proxy Scraper is a Python script designed to fetch and save proxies from multiple sources to a file. It supports fetching proxies from various websites using BeautifulSoup and requests libraries.
 
+# How it works
+
+When you run Proxy Scraper, it accesses each specified URL containing a list of proxies. It then parses the HTML content of these pages using BeautifulSoup, extracting relevant proxy information such as IP address and port number. The script handles different HTML structures from each website to ensure compatibility and accurate extraction.
+
 ## Features
 
 - Fetches proxies from:
