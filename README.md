@@ -35,4 +35,6 @@ pip install requests beautifulsoup4 colorama
 ```
 python proxy_scraper.py
 ```
+<h2 align="center"> *Disclaimer* </h2>
 
+<h2 align="center">This script is intended for educational and testing purposes only. Use it responsibly and do not use the proxies obtained for any illegal activities. The creator of this script is not responsible for any misuse or damage caused by the misuse of the fetched proxies.</h2>
