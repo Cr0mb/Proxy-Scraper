@@ -1,4 +1,6 @@
 
+
+
 # Proxy-Scraper
 [Video Tutorial](https://youtu.be/gR-AhoWpbaI)
 
@@ -42,3 +44,11 @@ python proxy_scraper.py
 <h2 align="center"> *Disclaimer* </h2>
 
 <h2 align="center">This script is intended for educational and testing purposes only. Use it responsibly and do not use the proxies obtained for any illegal activities. The creator of this script is not responsible for any misuse or damage caused by the misuse of the fetched proxies.</h2>
+
+
+```
+> Update 1
+  > Added more visually appealing terminal.
+```
+![image](https://github.com/Cr0mb/Proxy-Scraper/assets/137664526/b7a3447d-a70d-4bb6-8f22-3905aaa812fb)
+
