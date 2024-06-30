@@ -1,4 +1,4 @@
-import requests
+import requests xy_scraper.py"
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from colorama import init, Fore, Style
